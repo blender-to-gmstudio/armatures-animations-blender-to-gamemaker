@@ -16,6 +16,7 @@
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"animations.blend","CopyToMask":-1,"filePath":"datafiles","name":"animations.blend","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"animations.blend1","CopyToMask":-1,"filePath":"datafiles","name":"animations.blend1","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"export.py","CopyToMask":-1,"filePath":"datafiles","name":"export.py","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"armature.anim","CopyToMask":-1,"filePath":"datafiles/models","name":"armature.anim","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"armature.rig","CopyToMask":-1,"filePath":"datafiles/models","name":"armature.rig","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"body.vbx","CopyToMask":-1,"filePath":"datafiles/models","name":"body.vbx","resourceType":"GMIncludedFile","resourceVersion":"2.0",},

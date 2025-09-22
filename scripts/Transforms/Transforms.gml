@@ -28,8 +28,8 @@ function draw_hierarchy(_root, _sample_root, _sample_root_next, _lerp, _mat_glob
     matrix_stack_push(_mat_global);
     
     // Perform the final rotation to turn the armature upright
-    var _mat_rot_180 = matrix_build(0, 0, 0, 180, 0, 0, 1, 1, 1);
-    matrix_stack_push(_mat_rot_180);
+    var _mat_rotx_180 = matrix_build(0, 0, 0, 180, 0, 0, 1, 1, 1);
+    matrix_stack_push(_mat_rotx_180);
     
     var _mat_world = matrix_get(matrix_world);
     

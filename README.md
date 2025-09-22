@@ -2,7 +2,7 @@
 
 This GameMaker project shows a basic, straightforward way to export skeletal animations from Blender to GameMaker.
 
-> **Created with**:\
+> **Created with**:
 > 
 > GameMaker: 2024.13\
 > Blender : 4.1

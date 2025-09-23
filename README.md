@@ -40,3 +40,7 @@ The format of the rig file and animation file is identical. It consists of a hie
 ```
 
 The `"children"` array stores items of the same format. The `"model"` is only set on items in the rig file and is set to an empty string `""` for items in the animation file. It contains the filename of the model.
+
+## TODO
+
+Add documentation on how this works, coordinate system conversion, etc.
